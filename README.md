@@ -1,1 +1,1 @@
-# owid-co2-project
+# Our World in Data CO2 Project
