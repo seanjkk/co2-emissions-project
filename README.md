@@ -5,7 +5,7 @@
 
 ### Introduction
 
-Global warming has always been a looming threat to our planet. However, as the effects of climate change have become increasingly apparent these past years, there is now greater pressure on countries to immediately take action and reduce emissions. Through this project, I hope to examine the carbon dioxide emissions of all countries over the years of 1950 - 2020.
+Global warming has always been a looming threat to our planet. However, as the effects of climate change have become increasingly apparent these past years, there is now greater pressure on countries to immediately take action and reduce emissions. Through this project, I hope to examine the carbon dioxide emissions by country over the years of 1950 - 2020.
 
 ### The Dataset
 
