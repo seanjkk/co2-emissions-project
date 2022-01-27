@@ -1,7 +1,7 @@
 # Our World in Data CO2 Project
 
 - The Jupyter notebook can be opened [here](analysis.ipynb).
-- The Tableau dashboard can be opened [here](https://public.tableau.com/views/OWIDco2data/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- The Tableau dashboard can be opened [here](https://public.tableau.com/views/CarbonDioxideEmissions_16432672351780/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Introduction
 
@@ -14,5 +14,5 @@ The dataset I will be using is from [Our World in Data](https://ourworldindata.o
 ### Objectives
 
 - Use Pandas to prepare the dataset for analysis
-- Create graphical visualizations using Matplotlib
-- Create a Tableau dashboard with more visualizations
+- Create graphs using Matplotlib
+- Create an interactive Tableau dashboard
