@@ -1,6 +1,6 @@
 # Our World in Data CO2 Project
 
-- The Jupyter notebook can be opened [here](analysis.ipynb).
+- The Jupyter notebook can be opened [here](analysis.ipynb)
 - The Tableau dashboard can be opened [here](https://public.tableau.com/views/CarbonDioxideEmissions_16432672351780/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Introduction
