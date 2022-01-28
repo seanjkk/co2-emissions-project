@@ -1,9 +1,9 @@
 # Our World in Data CO2 Project
 
+![emissions](images/power-plant-carbon-emissions.jpg)
+
 - The Jupyter notebook can be opened [here](analysis.ipynb)
 - The Tableau dashboard can be opened [here](https://public.tableau.com/views/CarbonDioxideEmissions_16432672351780/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-![emissions](images/power-plant-carbon-emissions.jpg)
 
 ### Introduction
 
