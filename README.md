@@ -1,4 +1,4 @@
-# Our World in Data CO2 Project
+# CO2 Emissions Project
 
 ![emissions](images/power-plant-carbon-emissions.jpg)
 
