@@ -15,6 +15,6 @@ The dataset I will be using is from [Our World in Data](https://ourworldindata.o
 
 ### Objectives
 
-- Clean, manipulate and analyze the dataset using the Pandas library in Python
+- Clean, manipulate and analyze data using the Python and Pandas
 - Create graphs using Matplotlib
 - Create an interactive dashboard using Tableau
