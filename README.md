@@ -4,7 +4,7 @@
 
 - **The Jupyter notebook can be opened [here](https://nbviewer.org/github/seanjkk/co2-emissions-project/blob/main/analysis.ipynb) (nbviewer) or [here](analysis.ipynb) (GitHub)**
 - **The Tableau dashboard can be opened [here](https://public.tableau.com/views/CarbonDioxideEmissions_16432672351780/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**
-- Please use the nbviewer link for now as GitHub has been having problems displaying Jupyter Notebooks
+- I recommend using nbviewer as GitHub has been having issues displaying output in Jupyter Notebooks
 
 
 ### Introduction
